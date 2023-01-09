@@ -24,7 +24,7 @@
 
 ## Acesso ao projeto
 
-(https://github.com/ddanilooalves/Frontend-PetLove).
+https://anabeatrizalmeida.github.io/ping-pong-game/
 
 
 ## Desenvolvedora
